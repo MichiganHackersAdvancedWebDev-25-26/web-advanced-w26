@@ -1,6 +1,6 @@
-# Club Organization Manager 🏛️
+# Web-Advanced Winter 2026 🏛️
 
-Welcome to the Club Organization Manager! This is a Next.js application designed to help manage clubs and organizations efficiently. Below are all the things that you will need to know in order to contribute to this project!
+Welcome to the Web-Advanced Subteam's Winter 2026 Website! This is a Next.js application designed to help manage clubs and organizations efficiently. Below are all the things that you will need to know in order to contribute to this project!
 
 ## Setup 💻
 
