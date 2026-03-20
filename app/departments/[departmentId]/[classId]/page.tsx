@@ -1,4 +1,5 @@
 'use server'
+import UploadForm from "@/components/ui/upload";
 type PageProps = {
   params: Promise<{departmentId: string, classId: string }>;
 };
@@ -21,7 +22,11 @@ export default async function ClassPage({ params }: PageProps) {
         <section className="rounded-lg border border-black/10 dark:border-white/15 p-4">
           Practice Problems
         </section>
+
+        
       </div>
+        {/* should have sth that route to a upload page, upload page shoudl ahve image tag and caption(what is this iamge),  */}
+        <UploadForm></UploadForm>
     </div>
   );
 }
